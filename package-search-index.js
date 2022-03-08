@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"Evento"},{"l":"Guardado"},{"l":"Habilidades"},{"l":"IteratorConsumible"},{"l":"IteratorEquipamientos"},{"l":"Mapa"},{"l":"Objetos"},{"l":"Personaje"},{"l":"Validar"},{"l":"Ventanas"}]
